@@ -17,7 +17,11 @@ Odoo modules related to repairs
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[repair_order_mass_validate](repair_order_mass_validate/) | 16.0.1.0.0 |  | Repair Order Mass Validate
 
 [//]: # (end addons)
 
